@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Exercicio1.Comissao/Exercicio1.Comissao.csproj" />
+    <Project Path="src/Exercicio2.Estoque/Exercicio2.Estoque.csproj" />
+    <Project Path="src/Exercicio3.Juros/Exercicio3.Juros.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Exercicio1.Comissao.Tests/Exercicio1.Comissao.Tests.csproj" />
+    <Project Path="tests/Exercicio2.Estoque.Tests/Exercicio2.Estoque.Tests.csproj" />
+    <Project Path="tests/Exercicio3.Juros.Tests/Exercicio3.Juros.Tests.csproj" />
+  </Folder>
+</Solution>
